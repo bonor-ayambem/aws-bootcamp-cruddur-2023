@@ -16,7 +16,10 @@ AWS Certified Cloud Practitioner Certification Course (CLF-C01)
     transformation
   Evolution of Computing Power
     Computing power is the throughput measured at which a computer can complete a computational task
-		AWS Service Offering
+		AWS Service Offering:
+		- General Computing: Elastic Compute Cloud EC2
+
+
 		
 
     
