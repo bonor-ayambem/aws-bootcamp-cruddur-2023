@@ -9,12 +9,15 @@ AWS Certified Cloud Practitioner Certification Course (CLF-C01)
   Innovation Waves
     Kondratiev waves/Innovation waves/K-Waves are hypothesized cycle-like phenomena in the global
     world economy.
-
     The phenomenon is closely connected with Technology life cycles
   Burning Platform
     The term used when a company abandons old technology for new technology with the uncertainty of 
     success and can be motivated by fear that the organization furutew survival hinges on its digital 
     transformation
+  Evolution of Computing Power
+    Computing power is the throughput measured at which a computer can complete a computational task
+		AWS Service Offering
+		
 
     
 ⌨️ (01:27:40) The Benefits of the Cloud
