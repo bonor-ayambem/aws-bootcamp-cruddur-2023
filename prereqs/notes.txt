@@ -1,0 +1,44 @@
+AWS Certified Cloud Practitioner Certification Course (CLF-C01)
+
+
+⭐️ Course Contents ⭐️
+⌨️ (00:13:10) Introduction
+⌨️ (00:17:35) Cloud Concepts
+⌨️ (00:46:56) Getting Started
+⌨️ (01:19:37) Digital Transformation
+  Innovation Waves
+    Kondratiev waves/Innovation waves/K-Waves are hypothesized cycle-like phenomena in the global
+    world economy.
+
+    The phenomenon is closely connected with Technology life cycles
+  Burning Platform
+    The term used when a company abandons old technology for new technology with the uncertainty of 
+    success and can be motivated by fear that the organization furutew survival hinges on its digital 
+    transformation
+
+    
+⌨️ (01:27:40) The Benefits of the Cloud
+⌨️ (01:33:54) Global Infrastructure
+⌨️ (02:14:28) Cloud Architecture
+⌨️ (02:37:50) Management and Developers Tools
+⌨️ (04:15:23) Shared Responsibility Model
+⌨️ (04:34:20) Compute
+⌨️ (05:27:48) Storage
+⌨️ (06:05:26) Databases
+⌨️ (06:35:39) Networking
+⌨️ (06:57:27) EC2
+⌨️ (07:49:10) EC2 Pricing Models
+⌨️ (08:08:09) Identity
+⌨️ (08:53:55) Application Integration
+⌨️ (09:05:22) Containers
+⌨️ (09:16:11) Goverance
+⌨️ (09:44:39) Provisioning
+⌨️ (10:05:34) Serverless
+⌨️ (10:10:04) Windows on AWS
+⌨️ (10:18:46) Logging
+⌨️ (10:32:39) ML AI BigData
+⌨️ (10:52:52) AWS Well Architected Framework
+⌨️ (11:14:35) TCO and Migration
+⌨️ (11:30:41) Billing and Pricing
+⌨️ (12:25:50) Security
+⌨️ (13:11:08) Variation Study
